@@ -1,6 +1,8 @@
 # Museu Nacional Website
 
-![Preview - Museu Nacional] ![museu-preview](https://github.com/UlloaJr/museu-nacional/assets/108245001/a946d40c-1ef0-4ff6-92be-887abc2d9926)
+<div align="center">
+<img src="https://github.com/UlloaJr/museu-nacional/assets/108245001/a946d40c-1ef0-4ff6-92be-887abc2d9926" />
+</div>
 
 ## Descrição
 
